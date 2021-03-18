@@ -12,3 +12,8 @@ El objetivo es utilizar el archivo "Formato_UTN_PAPER.odt" como plantilla para l
 
 Para los encabezados se utiliza el estilo de nombre "Cabecera". Para el título principal del trabajo se utiliza el estilo de nombre "Titular". Para los nombres de los autores se utiliza el estilo de nombre "Firma". Para los datos de cada autor se utiliza el estilo de nombre "Cabecera". Para el Resumen y Palabras Clave se utiliza el estilo de nombre "Cabezera izquierda". Para las diferentes partes del informe se utiliza el estilo de nombre "Título 1". Para el contenido de cada apartado se utiliza el estilo de nombre "Cuerpo de texto con sangría". Para títulos secundarios se utiliza el estilo de nombre "Título 2". Para la descripción de cada ilustracion se utiliza el estilo de nombre "Figura". Para la descripción de cada tabla se utiliza el estilo de nombre "Tabla".
 
+La tipografía implementada es Times New Roman.
+
+A continuación se muestran algunas capturas del resultado en formato pdf.
+
+![Captura](/C1.png)
