@@ -4,7 +4,8 @@ Informe para trabajos de investigación desarrollados para la Universidad Tecnol
 
 ![UTN](/utn_logo.svg)
 
-### Formato LibreOffice ver que onda
+
+### Formato LibreOffice 
 
 ![LibreOffice](/LibreOffice_logo.png)
 
