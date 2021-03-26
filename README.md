@@ -4,7 +4,6 @@ Informe para trabajos de investigación desarrollados para la Universidad Tecnol
 
 ![UTN](/utn_logo.svg)
 
-
 ### Formato LibreOffice 
 
 ![LibreOffice](/LibreOffice_logo.png)
@@ -17,4 +16,4 @@ La tipografía implementada es Times New Roman.
 
 A continuación se muestra una captura del resultado en formato pdf.
 
-![Captura](/C1.png)
+![Captura](/screen1.png)
